@@ -1,2 +1,2 @@
-# Web
-CTIS 255-Term Project
+# CTIS 255-Term Project
+
