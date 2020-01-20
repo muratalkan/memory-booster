@@ -106,7 +106,7 @@ opacity: 0.0;
 }
 
 .gameOver{
-position: fixed;
+position: absolute;
 border:1px dashed yellow;
 width:300px;
 height: 150px;
