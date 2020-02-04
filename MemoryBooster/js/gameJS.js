@@ -106,7 +106,7 @@ $(function() {
         $(".gameOver").hide();
 
         $(".coverPage").animate({
-            left: '500px',
+            left: '39%',
             height: '+=100px'
         }, 1000);
 
