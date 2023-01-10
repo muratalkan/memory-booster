@@ -1,4 +1,4 @@
 # Memory Booster
-> CTIS 255 - Web Term Project
+> CTIS255 - Term Project
 
 Visual Memory Test
